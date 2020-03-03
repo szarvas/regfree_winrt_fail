@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="ConsoleApplication1.app"/>
+  <file name="RuntimeComponent1.winmd">
+    <activatableClass xmlns="urn:schemas-microsoft-com:winrt.v1" name="RuntimeComponent1.Class1" threadingModel="both"/>
+  </file>
+</assembly>
